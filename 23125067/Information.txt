@@ -1,0 +1,12 @@
+     Hello, this is the Minesweeper game developed by Nguyen Le Thinh Phuc.
+     In this game, you will be given a map with a number of rows and columns.   Each cell of the table may contain a bomb; otherwise, it contains a number whichindicates the number of its surrounding cells containing a bomb.
+     Your goal is to unlock all cells that do not contain a bomb. If a bombed   cell is unlocked, you lose. However, you are still able to continue playing, butyour score will not be counted.
+     There is an item to help you in the game - the flags. If you suppose a cellto have bomb, just put a flag there (this is called FLAGGING). It helps you to  mark the supposed bombed cells, so that you will avoid misclicking or confusing.If you reconsider, you can also unflag the flagged cells.
+     Each time you finish a game, your time of solving will be recorded and the 9 shortest time of playing in each mode will be displayed in the HighScore.
+     In the custom mode, you can declare your own size of map and the number of bombs, but your score will not be calculated.
+
+	
+
+     This is my first project in programming, I have never writen something as  long as this game. After all, I find this project really helpful, I learned a   lot from it.  
+     Thank you very much for reading, hope you enjoy the game!`
+
